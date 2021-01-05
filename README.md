@@ -1,5 +1,4 @@
 # SQL-Services---Always-Running
-# SQL-Services---Always-Running
 ## Script - 1
 This script will check the status of the SQL Services for mentioned servers (Passed in txt file). Gives the email alert as well as HTML file with the table of services specifically NOT IN Running State. Two Scripts should be run in sequence. After excution of this script one txt file will be generated then it will processed by Script 2.
 
