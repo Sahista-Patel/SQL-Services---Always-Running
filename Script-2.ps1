@@ -20,7 +20,7 @@
 .NOTES
     PUBLIC
 
-.AUTHOR
+.AUTHOR & OWNER
     Harsh Parecha
     Sahista Patel
 #>
